@@ -25,6 +25,7 @@
 - endpoint testing with supertest
 - normal unit test
 - Test results matching with snapshots
+- Adding plugins to test input validity
 
 # 🏃‍♂️ Run command
 
@@ -39,4 +40,3 @@ curl "http://localhost:3000/sum?val=10"
 ```bash
 npm run test
 ```
-
