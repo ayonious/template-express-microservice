@@ -1,4 +1,4 @@
-const { sum } = require("../src/utils");
+const { sum } = require("../src/utils/utils");
 
 describe("Example: basci unit test", () => {
   it(`service test`, function () {

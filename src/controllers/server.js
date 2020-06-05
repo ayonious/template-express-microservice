@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const { sum } = require("./utils");
+const { sum } = require("../utils/utils");
 
 app.get("/", function (req, res) {
   res.send("Hello World!");

@@ -1,4 +1,4 @@
-const { sum } = require("../src/utils");
+const { sum } = require("../src/utils/utils");
 
 describe("Test with snapshot", () => {
   it(`test1`, function () {
