@@ -1,9 +1,6 @@
 <h1 align="center">template-express-microservice</h1>
 <h3 align="center">🖥️🍭A bare min express microservice Template</h3>
 <p align="center">
-  <a href="https://travis-ci.org/ayonious/template-express-microservice">
-    <img alt="Build Status" src="https://travis-ci.org/ayonious/template-express-microservice.svg?branch=master">
-  </a>
   <a href="https://codecov.io/gh/ayonious/template-express-microservice">
     <img alt="codecov" src="https://codecov.io/gh/ayonious/template-express-microservice/branch/master/graph/badge.svg">
   </a>
