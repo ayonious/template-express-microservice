@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "setup": "npm install",
+    "unit-test": "jest --config jestconfig.json",
+    "test-integration": "echo noTest",
     "test": "jest --config jestconfig.json",
     "start": "node ."
   },
