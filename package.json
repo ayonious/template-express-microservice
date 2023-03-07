@@ -8,6 +8,7 @@
     "unit-test": "jest --config jestconfig.json",
     "test-integration": "echo noTest",
     "test": "jest --config jestconfig.json",
+    "build": "echo noe",
     "start": "node ."
   },
   "keywords": [],
